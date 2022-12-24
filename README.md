@@ -1,2 +1,2 @@
 # Teste-Repo
-Apenas um Teste.
+Esse é um teste rápido para entender como Git & GitHub funcionam! 
